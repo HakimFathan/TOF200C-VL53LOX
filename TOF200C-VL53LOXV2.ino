@@ -26,10 +26,10 @@ int total = 0;               // Total nilai jarak
 int count = 0;               // Counter untuk valid readings
 float average;
 const char* MQTT_server = "178.128.107.238";
-const char* MQTT_username = "mqtt_pass";
-const char* MQTT_password = "thesismania";
-// const char* MQTT_username = "276vr5jmli4o1br65wpe";
-// const char* MQTT_password = "";
+const char* MQTT_username = "1";
+const char* MQTT_password = "1";
+// const char* MQTT_username = "2";
+// const char* MQTT_password = "2";
 const int MQTT_Port = 1883;
 String WiFiSSID = "masch.internal";
 String WiFiPassword = "jlsrbz20@3";
