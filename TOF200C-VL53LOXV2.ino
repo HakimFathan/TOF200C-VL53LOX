@@ -25,7 +25,7 @@ int currentIndex = 0;        // Indeks untuk array
 int total = 0;               // Total nilai jarak
 int count = 0;               // Counter untuk valid readings
 float average;
-const char* MQTT_server = "178.128.107.238";
+const char* MQTT_server = "123.123.123.123";
 const char* MQTT_username = "1";
 const char* MQTT_password = "1";
 // const char* MQTT_username = "2";
